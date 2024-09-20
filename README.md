@@ -1,4 +1,4 @@
-# Meu Repositório Favorito
+# GitHub Repo Finder
 
 Este projeto permite que os usuários acompanhem seus repositórios favoritos e gerenciem as issues associadas a eles. A interface é construída em React e oferece uma maneira fácil e intuitiva de visualizar informações sobre os repositórios.
 
